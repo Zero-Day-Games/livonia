@@ -1,0 +1,1076 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Tower_TC4_Base",
+            "pos": [
+                11381.556640625,
+                199.6800537109375,
+                9861.37890625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Tower_TC4_Mid",
+            "pos": [
+                11381.7001953125,
+                243.28599548339845,
+                9861.2998046875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Tower_TC4_Top",
+            "pos": [
+                11381.599609375,
+                283.82501220703127,
+                9861.33984375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_metalcrate",
+            "pos": [
+                11381.5478515625,
+                280.1125793457031,
+                9864.67578125
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.99985271692276,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                11381.310546875,
+                280.3287048339844,
+                9864.8193359375
+            ],
+            "ypr": [
+                -2.0352055544320402e-12,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9998142719268799,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                11381.5556640625,
+                280.3288269042969,
+                9864.8193359375
+            ],
+            "ypr": [
+                -2.4423690066915915e-12,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999610960483551,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                11381.794921875,
+                280.3288269042969,
+                9864.8193359375
+            ],
+            "ypr": [
+                -2.9635244957726655e-16,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9996061325073242,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                11381.310546875,
+                280.3288269042969,
+                9864.5810546875
+            ],
+            "ypr": [
+                -3.017490023633421e-16,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9990990161895752,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                11381.5556640625,
+                280.32879638671877,
+                9864.5810546875
+            ],
+            "ypr": [
+                -3.081945260452533e-16,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999619722366333,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                11381.794921875,
+                280.3288269042969,
+                9864.5810546875
+            ],
+            "ypr": [
+                -3.0349680191044215e-16,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9991018772125244,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_metalcrate",
+            "pos": [
+                11381.681640625,
+                280.1124572753906,
+                9857.9638671875
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                11381.306640625,
+                280.4860534667969,
+                9864.7841796875
+            ],
+            "ypr": [
+                -1.62824539007983e-12,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9993898272514343,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                11381.5517578125,
+                280.4859924316406,
+                9864.7841796875
+            ],
+            "ypr": [
+                -1.6281487876662615e-12,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9995715618133545,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                11381.791015625,
+                280.4860534667969,
+                9864.7841796875
+            ],
+            "ypr": [
+                -2.725198276475071e-16,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9993898272514343,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                11381.306640625,
+                280.4861755371094,
+                9864.5458984375
+            ],
+            "ypr": [
+                -2.720612916554669e-16,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9989218711853027,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                11381.5517578125,
+                280.4860534667969,
+                9864.5458984375
+            ],
+            "ypr": [
+                -2.83737005558657e-16,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9995788931846619,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                11381.791015625,
+                280.4861145019531,
+                9864.5458984375
+            ],
+            "ypr": [
+                -2.8213923672233939e-16,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9990344047546387,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.841796875,
+                280.3289794921875,
+                9857.794921875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999718189239502,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.51171875,
+                280.3289489746094,
+                9857.794921875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9997522830963135,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.841796875,
+                280.3289489746094,
+                9857.8935546875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9995686411857605,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.51171875,
+                280.3289489746094,
+                9857.8935546875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9997522830963135,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.841796875,
+                280.3289489746094,
+                9857.99609375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9994521141052246,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.51171875,
+                280.3289489746094,
+                9857.99609375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9997921586036682,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.841796875,
+                280.3289489746094,
+                9858.1015625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9993288516998291,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.51171875,
+                280.3289489746094,
+                9858.1015625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9997522830963135,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.828125,
+                280.4171447753906,
+                9857.796875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9994485378265381,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.498046875,
+                280.4171447753906,
+                9857.796875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9994485378265381,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.828125,
+                280.41717529296877,
+                9857.8955078125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999272346496582,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.498046875,
+                280.4171447753906,
+                9857.8955078125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9994485378265381,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.828125,
+                280.4171447753906,
+                9857.998046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999161422252655,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.498046875,
+                280.4171447753906,
+                9857.998046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9995970726013184,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.828125,
+                280.4171447753906,
+                9858.103515625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9990811944007874,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.498046875,
+                280.4171447753906,
+                9858.103515625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9994485378265381,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.81640625,
+                280.5214538574219,
+                9858.0986328125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9988250136375427,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.486328125,
+                280.5213928222656,
+                9858.0986328125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9992256164550781,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.81640625,
+                280.5213928222656,
+                9857.7919921875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9992008805274963,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.486328125,
+                280.5213928222656,
+                9857.7919921875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9992256164550781,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.81640625,
+                280.5214538574219,
+                9857.890625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9990377426147461,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.486328125,
+                280.5213928222656,
+                9857.890625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9992256164550781,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.81640625,
+                280.52142333984377,
+                9857.9931640625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9993691444396973,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                11381.486328125,
+                280.5214538574219,
+                9857.9931640625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9992256164550781,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_metalcrate",
+            "pos": [
+                11384.951171875,
+                280.1124572753906,
+                9861.2822265625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                11385.123046875,
+                280.357421875,
+                9861.5810546875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9997929930686951,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                11385.123046875,
+                280.35736083984377,
+                9861.4765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9998168349266052,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                11385.123046875,
+                280.3574523925781,
+                9861.3759765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9996522068977356,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                11385.123046875,
+                280.3573913574219,
+                9861.0126953125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9996339678764343,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                11385.123046875,
+                280.3573913574219,
+                9861.2177734375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9996139407157898,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                11385.123046875,
+                280.357421875,
+                9861.11328125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9998168349266052,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                11384.8818359375,
+                280.3573913574219,
+                9861.3759765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.99957275390625,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                11384.8818359375,
+                280.3574523925781,
+                9861.0126953125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9993898272514343,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                11384.8818359375,
+                280.3573913574219,
+                9861.2177734375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999427318572998,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                11384.8818359375,
+                280.3573913574219,
+                9861.11328125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9995965361595154,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                11384.8818359375,
+                280.3573913574219,
+                9861.5810546875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9996514320373535,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                11384.8818359375,
+                280.357421875,
+                9861.4765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9998615384101868,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                11381.599609375,
+                303.44903564453127,
+                9861.326171875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.009999999776482582,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Wreck_Mi8_Crashed",
+            "pos": [
+                11381.62890625,
+                303.39971923828127,
+                9861.3251953125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.009999999776482582,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "M14",
+            "pos": [
+                11382.412109375,
+                274.56097412109377,
+                9858.5
+            ],
+            "ypr": [
+                179.99989318847657,
+                90.0,
+                179.99989318847657
+            ],
+            "scale": 0.9999992251396179,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Mag_M14_20Rnd",
+            "pos": [
+                11382.416015625,
+                274.5319519042969,
+                9858.626953125
+            ],
+            "ypr": [
+                179.99989318847657,
+                89.53690338134766,
+                179.99989318847657
+            ],
+            "scale": 0.9997773170471191,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Mag_M14_20Rnd",
+            "pos": [
+                11382.3173828125,
+                274.5319519042969,
+                9858.626953125
+            ],
+            "ypr": [
+                -0.0001042620133375749,
+                89.57571411132813,
+                -0.00010427678353153169
+            ],
+            "scale": 0.9997518062591553,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Mag_M14_20Rnd",
+            "pos": [
+                11382.19921875,
+                274.5319519042969,
+                9858.626953125
+            ],
+            "ypr": [
+                -0.00010427405504742637,
+                90.0,
+                -0.00010427405504742637
+            ],
+            "scale": 0.999945342540741,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "MK4Optic_Green",
+            "pos": [
+                11382.400390625,
+                274.61199951171877,
+                9858.1904296875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                90.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "MK4Optic_Green",
+            "pos": [
+                11391.5595703125,
+                202.23399353027345,
+                9583.228515625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                90.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "M14",
+            "pos": [
+                11391.6181640625,
+                202.17587280273438,
+                9583.498046875
+            ],
+            "ypr": [
+                -0.0001042740695993416,
+                90.0,
+                -0.0001042740695993416
+            ],
+            "scale": 0.9999992251396179,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Mag_M14_20Rnd",
+            "pos": [
+                11391.6357421875,
+                202.16571044921876,
+                9583.59765625
+            ],
+            "ypr": [
+                179.99989318847657,
+                90.0,
+                179.99989318847657
+            ],
+            "scale": 0.999899685382843,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Mag_M14_20Rnd",
+            "pos": [
+                11391.5400390625,
+                202.1731414794922,
+                9583.59765625
+            ],
+            "ypr": [
+                179.99989318847657,
+                90.0,
+                179.99989318847657
+            ],
+            "scale": 0.9999175071716309,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Mag_M14_20Rnd",
+            "pos": [
+                11391.435546875,
+                202.1731414794922,
+                9583.59765625
+            ],
+            "ypr": [
+                -0.00010427406232338399,
+                90.0,
+                -0.00010427406232338399
+            ],
+            "scale": 0.9999921321868897,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Mag_M14_20Rnd",
+            "pos": [
+                11391.3359375,
+                202.1731414794922,
+                9583.59765625
+            ],
+            "ypr": [
+                -0.00010427405504742637,
+                90.0,
+                -0.0001042740695993416
+            ],
+            "scale": 0.9998869895935059,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}

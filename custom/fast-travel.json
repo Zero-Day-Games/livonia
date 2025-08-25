@@ -1,0 +1,724 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6186.10986328125,
+                309.3440246582031,
+                6138.14013671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999151825904846,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6187.60986328125,
+                309.3440246582031,
+                6138.14013671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999151825904846,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6189.10986328125,
+                309.3440246582031,
+                6138.14013671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999151825904846,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6190.60986328125,
+                309.3440246582031,
+                6138.14013671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999151825904846,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6192.10986328125,
+                309.3440246582031,
+                6138.14013671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999151825904846,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6193.60986328125,
+                309.3440246582031,
+                6138.14013671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999151825904846,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6195.10986328125,
+                309.3440246582031,
+                6138.14013671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999151825904846,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6196.60986328125,
+                309.3440246582031,
+                6138.14013671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999151825904846,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6198.10986328125,
+                309.3440246582031,
+                6138.14013671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999151825904846,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6199.60986328125,
+                309.3440246582031,
+                6138.14013671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999151825904846,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6201.10986328125,
+                309.3440246582031,
+                6138.14013671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999151825904846,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6202.60986328125,
+                309.343994140625,
+                6138.14013671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999424815177918,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Paper",
+            "pos": [
+                6199.10595703125,
+                307.3717956542969,
+                6133.2099609375
+            ],
+            "ypr": [
+                -89.99996185302735,
+                90.0,
+                179.99989318847657
+            ],
+            "scale": 100.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Paper",
+            "pos": [
+                6172.6484375,
+                307.3717956542969,
+                6133.2099609375
+            ],
+            "ypr": [
+                -89.99996185302735,
+                90.0,
+                179.99989318847657
+            ],
+            "scale": 99.9948959350586,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Barn_Wood1",
+            "pos": [
+                6188.0224609375,
+                310.7682189941406,
+                6132.5166015625
+            ],
+            "ypr": [
+                90.00001525878906,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9995987415313721,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                1385.72119140625,
+                274.1953125,
+                9665.2373046875
+            ],
+            "ypr": [
+                120.61316680908203,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999812126159668,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                11620.4833984375,
+                214.32156372070313,
+                416.03289794921877
+            ],
+            "ypr": [
+                35.860374450683597,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999584436416626,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                11517.80078125,
+                331.1095886230469,
+                4612.7646484375
+            ],
+            "ypr": [
+                -59.762245178222659,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9996711611747742,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                5230.37451171875,
+                190.67332458496095,
+                10286.865234375
+            ],
+            "ypr": [
+                161.07603454589845,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9996497631072998,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                10617.583984375,
+                181.2960662841797,
+                11074.4375
+            ],
+            "ypr": [
+                -124.30349731445313,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9995975494384766,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                8842.6416015625,
+                317.01416015625,
+                6663.75830078125
+            ],
+            "ypr": [
+                -65.42173767089844,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9993424415588379,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                3405.255859375,
+                252.52308654785157,
+                12189.33203125
+            ],
+            "ypr": [
+                -113.30248260498047,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999096989631653,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6082.11669921875,
+                387.8060607910156,
+                4153.6435546875
+            ],
+            "ypr": [
+                -118.21717071533203,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999586284160614,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                4724.18310546875,
+                293.04486083984377,
+                7631.9228515625
+            ],
+            "ypr": [
+                -149.32225036621095,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9998629093170166,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                3341.9736328125,
+                488.8402099609375,
+                2069.027587890625
+            ],
+            "ypr": [
+                -50.1312141418457,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9995801448822022,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_BusStop_Village2",
+            "pos": [
+                4035.24267578125,
+                208.56076049804688,
+                7993.4130859375
+            ],
+            "ypr": [
+                -96.67398071289063,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9998078346252441,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                4035.85693359375,
+                208.6100616455078,
+                7989.86083984375
+            ],
+            "ypr": [
+                -94.19618225097656,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999758780002594,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                11409.9892578125,
+                184.43711853027345,
+                9582.61328125
+            ],
+            "ypr": [
+                -105.60029602050781,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9998154640197754,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6312.09423828125,
+                193.56033325195313,
+                10185.10546875
+            ],
+            "ypr": [
+                74.794921875,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9995904564857483,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                9276.490234375,
+                200.94427490234376,
+                10837.8095703125
+            ],
+            "ypr": [
+                91.9333267211914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9997930526733398,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                1823.458251953125,
+                201.88397216796876,
+                7338.1923828125
+            ],
+            "ypr": [
+                167.55508422851563,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9998819828033447,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                844.6441650390625,
+                243.33609008789063,
+                5508.17919921875
+            ],
+            "ypr": [
+                -133.2493133544922,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9998480677604675,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                9086.2509765625,
+                339.9814453125,
+                4393.27587890625
+            ],
+            "ypr": [
+                5.140448093414307,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9995930194854736,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_BusStop_Village2",
+            "pos": [
+                9089.728515625,
+                339.7478942871094,
+                4392.9306640625
+            ],
+            "ypr": [
+                6.191842555999756,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9995414614677429,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                3019.953125,
+                235.4571990966797,
+                6816.31982421875
+            ],
+            "ypr": [
+                -103.31281280517578,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9997798800468445,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6459.92431640625,
+                185.7061309814453,
+                11244.111328125
+            ],
+            "ypr": [
+                -97.90078735351563,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9997774958610535,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                8479.9677734375,
+                175.5635528564453,
+                11807.541015625
+            ],
+            "ypr": [
+                -16.01296043395996,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9998885989189148,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6174.115234375,
+                309.3447265625,
+                6138.14306640625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9997637271881104,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6175.61083984375,
+                309.3445739746094,
+                6138.14013671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9998026490211487,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6177.11083984375,
+                309.3446044921875,
+                6138.14013671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9997785091400147,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6178.61083984375,
+                309.3443298339844,
+                6138.14013671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999151825904846,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6180.10986328125,
+                309.3440246582031,
+                6138.14013671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999151825904846,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6181.60986328125,
+                309.3440246582031,
+                6138.14013671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999151825904846,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6183.10986328125,
+                309.3440246582031,
+                6138.14013671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999151825904846,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                6184.60986328125,
+                309.3440246582031,
+                6138.14013671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999151825904846,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}

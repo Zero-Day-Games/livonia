@@ -1,0 +1,448 @@
+{
+  "spawnWeight": 1,
+  "name": "loadout",
+  "characterTypes": [],
+  "attachmentSlotItemSets": [
+    {
+      "slotName": "Body",
+      "discreteItemSets": [
+        {
+          "itemType": "TShirt_10thAnniversary",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "TShirt_Beige",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "TShirt_Black",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "TShirt_Blue",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "TShirt_Green",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "TShirt_Grey",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "TShirt_OrangeWhiteStripes",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "TShirt_Red",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "TShirt_RedBlackStripes",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "TShirt_White",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Legs",
+      "discreteItemSets": [
+        {
+          "itemType": "Breeches_Beetcheck",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "Breeches_Beige",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "Breeches_Black",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "Breeches_Blackcheck",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "Breeches_Blue",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "Breeches_Browncheck",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "Breeches_Green",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "Breeches_Pink",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "Breeches_Red",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "Breeches_White",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Feet",
+      "discreteItemSets": [
+        {
+          "itemType": "AthleticShoes_Black",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "AthleticShoes_Blue",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "AthleticShoes_Brown",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "AthleticShoes_Green",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        },
+        {
+          "itemType": "AthleticShoes_Grey",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false,
+          "complexChildrenTypes": []
+        }
+      ]
+    }
+  ],
+  "discreteUnsortedItemSets": [
+    {
+      "name": "Cargo1",
+      "spawnWeight": 1,
+      "attributes": {
+        "healthMin": 1.0,
+        "healthMax": 1.0,
+        "quantityMin": 1.0,
+        "quantityMax": 1.0
+      },
+      "simpleChildrenTypes": [],
+      "simpleChildrenUseDefaultAttributes": false,
+      "complexChildrenTypes": [
+        {
+          "itemType": "BandageDressing",
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": 0
+        },
+        {
+          "itemType": "ChernarusMap",
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": 1
+        },
+        {
+          "itemType": "HuntingKnife",
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": 2
+        },
+        {
+          "itemType": "Pear",
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": 3
+        },
+        {
+          "itemType": "Apple",
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1
+        },
+        {
+          "itemType": "Chemlight_White",
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1
+        }
+      ]
+    }
+  ]
+}

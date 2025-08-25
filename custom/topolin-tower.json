@@ -1,0 +1,84 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Tower_TC4_Base",
+            "pos": [
+                1970.15625,
+                202.7971649169922,
+                7640.5009765625
+            ],
+            "ypr": [
+                75.46565246582031,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.99932461977005,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Tower_TC4_Mid",
+            "pos": [
+                1970.115966796875,
+                246.2891845703125,
+                7640.3388671875
+            ],
+            "ypr": [
+                75.46526336669922,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999811589717865,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Tower_TC4_Top",
+            "pos": [
+                1970.12890625,
+                286.8621826171875,
+                7640.447265625
+            ],
+            "ypr": [
+                75.46565246582031,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9993568062782288,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_SupplyBox2_DE",
+            "pos": [
+                1972.7340087890626,
+                284.0497131347656,
+                7641.26806640625
+            ],
+            "ypr": [
+                74.85363006591797,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999816417694092,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_SupplyBox3_DE",
+            "pos": [
+                1969.646728515625,
+                278.4532775878906,
+                7643.19775390625
+            ],
+            "ypr": [
+                166.78855895996095,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999537467956543,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}

@@ -1,0 +1,216 @@
+{
+  "version": 123,
+  "GeneralData": {
+    "disableBaseDamage": true,
+    "disableContainerDamage": false,
+    "disableRespawnDialog": false,
+    "disableRespawnInUnconsciousness": false
+  },
+  "PlayerData": {
+    "disablePersonalLight": false,
+    "spawnGearPresetFiles": [
+      "custom/loadout.json"
+    ],
+    "StaminaData": {
+      "sprintStaminaModifierErc": 0.2,
+      "sprintStaminaModifierCro": 0.2,
+      "staminaWeightLimitThreshold": 6000,
+      "staminaMax": 100,
+      "staminaKgToStaminaPercentPenalty": 1.1,
+      "staminaMinCap": 100,
+      "sprintSwimmingStaminaModifier": 0.2,
+      "sprintLadderStaminaModifier": 0.2,
+      "meleeStaminaModifier": 0.2,
+      "obstacleTraversalStaminaModifier": 0.2,
+      "holdBreathStaminaModifier": 0.2
+    },
+    "ShockHandlingData": {
+      "shockRefillSpeedConscious": 10,
+      "shockRefillSpeedUnconscious": 5,
+      "allowRefillSpeedModifier": true
+    },
+    "MovementData": {
+      "timeToStrafeJog": 0.1,
+      "rotationSpeedJog": 0.3,
+      "timeToSprint": 0.45,
+      "timeToStrafeSprint": 0.3,
+      "rotationSpeedSprint": 0.15,
+      "allowStaminaAffectInertia": true
+    },
+    "DrowningData": {
+      "staminaDepletionSpeed": 10,
+      "healthDepletionSpeed": 10,
+      "shockDepletionSpeed": 10
+    },
+    "WeaponObstructionData": {
+      "staticMode": 1,
+      "dynamicMode": 1
+    }
+  },
+  "WorldsData": {
+    "lightingConfig": 2,
+    "objectSpawnersArr": [
+      "./custom/16793074-airdrop.json",
+      "./custom/16793074-shop.json",
+      "./custom/fast-travel.json",
+      "./custom/livonia-event-center.json",
+      "./custom/livonia-event-center-boxing.json",
+      "./custom/livonia-trader.json",
+      "./custom/livonia-trader-admin-kit.json",
+      "./custom/livonia-trader-ammo.json",
+      "./custom/livonia-trader-auto-parts.json",
+      "./custom/livonia-trader-bags.json",
+      "./custom/livonia-trader-boots.json",
+      "./custom/livonia-trader-building.json",
+      "./custom/livonia-trader-clothing.json",
+      "./custom/livonia-trader-flags.json",
+      "./custom/livonia-trader-ghillie.json",
+      "./custom/livonia-trader-glasses.json",
+      "./custom/livonia-trader-gloves.json",
+      "./custom/livonia-trader-guns.json",
+      "./custom/livonia-trader-helmets.json",
+      "./custom/livonia-trader-hips.json",
+      "./custom/livonia-trader-keys.json",
+      "./custom/livonia-trader-magazines.json",
+      "./custom/livonia-trader-masks.json",
+      "./custom/livonia-trader-medicine.json",
+      "./custom/livonia-trader-misc.json",
+      "./custom/livonia-trader-nbc.json",
+      "./custom/livonia-trader-nvgs.json",
+      "./custom/livonia-trader-optics.json",
+      "./custom/livonia-trader-plates.json",
+      "./custom/livonia-trader-safe-zone.json",
+      "./custom/livonia-trader-tents.json",
+      "./custom/livonia-trader-water.json",
+      "./custom/lukow-bunker.json",
+      "./custom/sitnik-shipwreck.json",
+      "./custom/topolin-c130.json",
+      "./custom/topolin-tower.json",
+      "./custom/livonia-trader-lockdown.json"
+    ],
+    "environmentMinTemps": [
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9
+    ],
+    "environmentMaxTemps": [
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12
+    ],
+    "wetnessWeightModifiers": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "playerRestrictedAreaFiles": [
+      "./custom/fast-travel-adamow-hub.json",
+      "./custom/fast-travel-bielawa-hub.json",
+      "./custom/fast-travel-brenna-hub.json",
+      "./custom/fast-travel-dolnik-hub.json",
+      "./custom/fast-travel-gieraltow-hub.json",
+      "./custom/fast-travel-gliniska-hub.json",
+      "./custom/fast-travel-grabin-hub.json",
+      "./custom/fast-travel-hub-adamow.json",
+      "./custom/fast-travel-hub-bielawa.json",
+      "./custom/fast-travel-hub-brenna.json",
+      "./custom/fast-travel-hub-dolnik.json",
+      "./custom/fast-travel-hub-gieraltow.json",
+      "./custom/fast-travel-hub-gliniska.json",
+      "./custom/fast-travel-hub-grabin.json",
+      "./custom/fast-travel-hub-kolembrody.json",
+      "./custom/fast-travel-hub-lembork.json",
+      "./custom/fast-travel-hub-lukow.json",
+      "./custom/fast-travel-hub-nadbor.json",
+      "./custom/fast-travel-hub-olszanka.json",
+      "./custom/fast-travel-hub-polana.json",
+      "./custom/fast-travel-hub-radacz.json",
+      "./custom/fast-travel-hub-sitnik.json",
+      "./custom/fast-travel-hub-sobotka.json",
+      "./custom/fast-travel-hub-tarnow.json",
+      "./custom/fast-travel-hub-topolin.json",
+      "./custom/fast-travel-hub-wrzeszcz.json",
+      "./custom/fast-travel-hub-zalesie.json",
+      "./custom/fast-travel-kolembrody-hub.json",
+      "./custom/fast-travel-lembork-hub.json",
+      "./custom/fast-travel-lukow-hub.json",
+      "./custom/fast-travel-nadbor-hub.json",
+      "./custom/fast-travel-olszanka-hub.json",
+      "./custom/fast-travel-polana-hub.json",
+      "./custom/fast-travel-radacz-hub.json",
+      "./custom/fast-travel-sitnik-hub.json",
+      "./custom/fast-travel-sobotka-hub.json",
+      "./custom/fast-travel-tarnow-hub.json",
+      "./custom/fast-travel-topolin-hub.json",
+      "./custom/fast-travel-wrzeszcz-hub.json",
+      "./custom/fast-travel-zalesie-hub.json"
+    ]
+  },
+  "BaseBuildingData": {
+    "HologramData": {
+      "disableIsCollidingBBoxCheck": true,
+      "disableIsCollidingPlayerCheck": true,
+      "disableIsClippingRoofCheck": true,
+      "disableIsBaseViableCheck": true,
+      "disableIsCollidingGPlotCheck": false,
+      "disableIsCollidingAngleCheck": true,
+      "disableIsPlacementPermittedCheck": true,
+      "disableHeightPlacementCheck": true,
+      "disableIsUnderwaterCheck": true,
+      "disableIsInTerrainCheck": true,
+      "disableColdAreaPlacementCheck": true,
+      "disallowedTypesInUnderground": [
+        "FenceKit",
+        "TerritoryFlagKit",
+        "WatchtowerKit"
+      ]
+    },
+    "ConstructionData": {
+      "disablePerformRoofCheck": true,
+      "disableIsCollidingCheck": true,
+      "disableDistanceCheck": true
+    }
+  },
+  "UIData": {
+    "use3DMap": false,
+    "HitIndicationData": {
+      "hitDirectionOverrideEnabled": true,
+      "hitDirectionBehaviour": 1,
+      "hitDirectionStyle": 0,
+      "hitDirectionIndicatorColorStr": "0xffbb0a1e",
+      "hitDirectionMaxDuration": 2,
+      "hitDirectionBreakPointRelative": 0.2,
+      "hitDirectionScatter": 10,
+      "hitIndicationPostProcessEnabled": true
+    }
+  },
+  "MapData": {
+    "ignoreMapOwnership": true,
+    "ignoreNavItemsOwnership": true,
+    "displayPlayerPosition": true,
+    "displayNavInfo": true
+  },
+  "VehicleData": {
+    "boatDecayMultiplier": 1
+  }
+}

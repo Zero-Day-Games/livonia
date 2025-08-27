@@ -50,8 +50,7 @@
   "WorldsData": {
     "lightingConfig": 2,
     "objectSpawnersArr": [
-      "./custom/16793074-airdrop.json",
-      "./custom/16793074-shop.json",
+      "./custom/dolnik-bunker.json",
       "./custom/fast-travel.json",
       "./custom/livonia-event-center.json",
       "./custom/livonia-event-center-boxing.json",
@@ -86,7 +85,7 @@
       "./custom/sitnik-shipwreck.json",
       "./custom/topolin-c130.json",
       "./custom/topolin-tower.json",
-      "./custom/livonia-trader-lockdown.json"
+      "custom/DayZSentinel_Shop.json"
     ],
     "environmentMinTemps": [
       9,

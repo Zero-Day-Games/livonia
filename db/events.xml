@@ -129,8 +129,8 @@
   </event>
   <event name="StaticMilitaryHorde">
     <nominal>10</nominal>
-    <min>2</min>
-    <max>2</max>
+    <min>3</min>
+    <max>3</max>
     <lifetime>0</lifetime>
     <restock>0</restock>
     <saferadius>100</saferadius>
@@ -1181,9 +1181,9 @@
     </children>
   </event>
   <event name="VehicleOffroad02">
-    <nominal>3</nominal>
+    <nominal>5</nominal>
     <min>2</min>
-    <max>3</max>
+    <max>5</max>
     <lifetime>300</lifetime>
     <restock>0</restock>
     <saferadius>500</saferadius>
@@ -1236,9 +1236,9 @@
     </children>
   </event>
   <event name="VehicleTruck01">
-    <nominal>10</nominal>
-    <min>5</min>
-    <max>11</max>
+    <nominal>30</nominal>
+    <min>30</min>
+    <max>30</max>
     <lifetime>300</lifetime>
     <restock>0</restock>
     <saferadius>500</saferadius>
@@ -1251,7 +1251,7 @@
     <children>
       <child lootmax="0" lootmin="0" max="10" min="3" type="Truck_01_Covered"/>
       <child lootmax="0" lootmin="0" max="10" min="3" type="Truck_01_Covered_Blue"/>
-      <!--<child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Orange"/>-->
+      <child lootmax="0" lootmin="0" max="10" min="3" type="Truck_01_Covered_Orange"/>
     </children>
   </event>
 </events>

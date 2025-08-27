@@ -65,8 +65,7 @@
   <event name="StaticMilitaryHorde">
     <pos x="834" z="7818" a="180.00"/>
     <pos x="1970" z="7640" a="180.00"/>
-    <!-- SITNIK KOTH HORDE -->
-    <pos x="11381" z="9861" a="180.00"/>
+    <pos x="12024" y="323" z="981" a="180.00"/>
   </event>
   <event name="StaticHeliCrash">
     <zone smin="1" smax="3" dmin="5" dmax="8" r="45"/>

@@ -2,6 +2,21 @@
 <map>
     <!-- CUSTOM -->
 
+    <!-- DOLNIK BUNKER -->
+    <group name="Land_Mil_Tent_Big1_1" pos="12040.400391 317.082245 990.170044" rpy="-0.000000 0.000000 0.000000" a="90"/>
+    <group name="Land_Mil_Tent_Big1_2" pos="12032.400391 317.082245 990.170044" rpy="-0.000000 0.000000 0.000000" a="90"/>
+    <group name="Land_Mil_Tent_Big1_3" pos="12024.500000 317.082245 990.130066" rpy="-0.000000 0.000000 0.000000" a="90"/>
+    <group name="Land_Mil_Tent_Big1_4" pos="12016.799805 317.082031 990.170044" rpy="-0.000000 0.000000 0.000000" a="90"/>
+    <group name="Land_Mil_Tent_Big1_5" pos="12009.000000 317.082245 990.170044" rpy="-0.000000 0.000000 0.000000" a="90"/>
+    <group name="Land_Mil_Barracks_Round" pos="12006.885742 318.309967 972.172485" rpy="-0.000000 0.000000 -89.999985" a="180"/>
+    <group name="StaticObj_Misc_SupplyBox1_DE" pos="12034.980469 317.717041 981.735596" rpy="-0.000000 0.000000 -44.896694" a="134.897"/>
+    <group name="StaticObj_Misc_SupplyBox3_DE" pos="12028.975586 317.979736 982.414429" rpy="-0.000000 0.000000 -7.310974" a="97.311"/>
+    <group name="StaticObj_Misc_SupplyBox2_DE" pos="12020.028320 317.979736 981.945129" rpy="-0.000000 0.000000 -70.610878" a="160.611"/>
+    <group name="Land_Underground_Entrance" pos="12052.299805 317.110077 981.403992" rpy="-0.000000 0.000000 -89.999985" a="180"/>
+    <group name="Land_Container_1Mo_DE" pos="12037.679688 318.291138 976.734863" rpy="-0.000000 0.000000 56.074192" a="33.9258"/>
+    <group name="Land_Container_1Mo_DE" pos="12020.324219 318.291168 975.265747" rpy="-0.000000 0.000000 -8.034430" a="98.0344"/>
+    <!-- END DOLNIK BUNKER -->
+
     <!-- SITNIK SHIPWRECK -->
     <group name="Land_Ship_Big_BackB" pos="11442.000000 183.419205 10611.598633" rpy="-9.459343 -3.657049 -105.258957" a="-164.741"/>
     <group name="Land_Ship_Big_BackA" pos="11437.099609 188.333405 10629.898438" rpy="-9.461595 -3.657068 -105.258980" a="-164.741"/>

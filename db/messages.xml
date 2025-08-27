@@ -44,15 +44,10 @@
         </message>
         -->
     <message>
-        <delay>2</delay>
-        <onconnect>1</onconnect>
-        <text>Welcome #name</text>
-    </message>
-    <message>
-        <delay>3</delay>
+        <delay>1</delay>
         <repeat>15</repeat>
         <onconnect>1</onconnect>
-        <text>Join our Discord: https://discord.gg/E2qqQ2mXkV</text>
+        <text>#name</text>
     </message>
     <message>
         <delay>10</delay>
@@ -60,9 +55,9 @@
         <text>Trader is located South of Lipina and is a SAFE ZONE! No PVP within 250 meters of trader!</text>
     </message>
     <message>
-        <delay>15</delay>
-        <onconnect>1</onconnect>
-        <text>New factions of 2 or more can claim a FREE builder truck! Join our discord for details! https://discord.gg/E2qqQ2mXkV</text>
+        <deadline>120</deadline>
+        <shutdown>1</shutdown>
+        <text>Server will reboot in #tmin minutes.</text>
     </message>
 
 </messages>

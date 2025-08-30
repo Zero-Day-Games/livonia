@@ -2,7 +2,7 @@
 	"version": 123,
 	"GeneralData":
 	{
-		"disableBaseDamage": false,
+		"disableBaseDamage": true,
 		"disableContainerDamage": false,
 		"disableRespawnDialog": true,
 		"disableRespawnInUnconsciousness": true
@@ -56,7 +56,7 @@
 	},
 	"WorldsData":
 	{
-		"lightingConfig": 0,
+		"lightingConfig": 1,
 		"objectSpawnersArr": [
 			"./custom/fast-travel.json",
 			"custom/DayZSentinel_Shop.json"

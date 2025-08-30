@@ -1,24 +1,6 @@
 {
     "Areas": [
-		{ 	"AreaName": "Sitnik-Shipwreck",
-			"Type": "ContaminatedArea_Static",
-			"TriggerType": "ContaminatedTrigger",
-			"Data": {
-				"Pos": [ 11442, 175, 10659 ],
-				"Radius": 100,
-				"PosHeight": 30,
-				"NegHeight": 10,
-				"InnerPartDist": 100,
-				"OuterOffset": 20,
-				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
-			},
-			"PlayerData": {
-				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
-				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
-				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
-			}
-		},
-        { 	"AreaName": "Radunin-MedicalTents",
+        { 	"AreaName": "Radunin-MedicalTents", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 

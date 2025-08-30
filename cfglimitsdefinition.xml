@@ -34,7 +34,6 @@
         <usage name="Special"/>
         <usage name="Lunapark"/>
         <usage name="Underground"/>
-        <usage name="Bunker"/>
     </usageflags>
     <valueflags>
         <value name="Tier1"/>

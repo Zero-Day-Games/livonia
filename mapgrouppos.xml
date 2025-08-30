@@ -1,58 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <map>
-    <!-- CUSTOM -->
-
-    <!-- DOLNIK BUNKER -->
-    <group name="Land_Mil_Tent_Big1_1" pos="12040.400391 317.082245 990.170044" rpy="-0.000000 0.000000 0.000000" a="90"/>
-    <group name="Land_Mil_Tent_Big1_2" pos="12032.400391 317.082245 990.170044" rpy="-0.000000 0.000000 0.000000" a="90"/>
-    <group name="Land_Mil_Tent_Big1_3" pos="12024.500000 317.082245 990.130066" rpy="-0.000000 0.000000 0.000000" a="90"/>
-    <group name="Land_Mil_Tent_Big1_4" pos="12016.799805 317.082031 990.170044" rpy="-0.000000 0.000000 0.000000" a="90"/>
-    <group name="Land_Mil_Tent_Big1_5" pos="12009.000000 317.082245 990.170044" rpy="-0.000000 0.000000 0.000000" a="90"/>
-    <group name="Land_Mil_Barracks_Round" pos="12006.885742 318.309967 972.172485" rpy="-0.000000 0.000000 -89.999985" a="180"/>
-    <group name="StaticObj_Misc_SupplyBox1_DE" pos="12034.980469 317.717041 981.735596" rpy="-0.000000 0.000000 -44.896694" a="134.897"/>
-    <group name="StaticObj_Misc_SupplyBox3_DE" pos="12028.975586 317.979736 982.414429" rpy="-0.000000 0.000000 -7.310974" a="97.311"/>
-    <group name="StaticObj_Misc_SupplyBox2_DE" pos="12020.028320 317.979736 981.945129" rpy="-0.000000 0.000000 -70.610878" a="160.611"/>
-    <group name="Land_Underground_Entrance" pos="12052.299805 317.110077 981.403992" rpy="-0.000000 0.000000 -89.999985" a="180"/>
-    <group name="Land_Container_1Mo_DE" pos="12037.679688 318.291138 976.734863" rpy="-0.000000 0.000000 56.074192" a="33.9258"/>
-    <group name="Land_Container_1Mo_DE" pos="12020.324219 318.291168 975.265747" rpy="-0.000000 0.000000 -8.034430" a="98.0344"/>
-    <!-- END DOLNIK BUNKER -->
-
-    <!-- SITNIK SHIPWRECK -->
-    <group name="Land_Ship_Big_BackB" pos="11442.000000 183.419205 10611.598633" rpy="-9.459343 -3.657049 -105.258957" a="-164.741"/>
-    <group name="Land_Ship_Big_BackA" pos="11437.099609 188.333405 10629.898438" rpy="-9.461595 -3.657068 -105.258980" a="-164.741"/>
-    <group name="Land_Ship_Big_FrontA" pos="11413.900391 184.144653 10743.000000" rpy="10.489796 -0.000008 -84.292381" a="174.292"/>
-    <group name="Land_Ship_Big_FrontB" pos="11414.200195 186.302643 10723.100586" rpy="10.490354 -0.000115 -84.292297" a="174.292"/>
-    <group name="Land_Ship_Big_Castle" pos="11438.935547 195.469559 10620.676758" rpy="-9.461001 -3.656965 -105.258957" a="-164.741"/>
-    <group name="Land_Container_1Mo" pos="11418.629883 187.449615 10706.618164" rpy="-10.289071 5.966246 133.311905" a="-43.3119"/>
-    <group name="Land_Container_1Mo" pos="11448.250977 172.326996 10586.770508" rpy="9.371257 2.298717 79.512474" a="10.4875"/>
-    <group name="Land_Container_1Mo" pos="11447.772461 172.734009 10589.208008" rpy="9.371257 2.298719 79.512474" a="10.4875"/>
-    <group name="Land_Container_1Mo" pos="11417.692383 180.929062 10755.422852" rpy="2.418980 -9.256948 0.008853" a="89.9911"/>
-    <!-- END SITNIK SHIPWRECK -->
-
-    <!-- LUKOW BUNKER -->
-    <group name="Land_WarheadStorage_PowerStation" pos="4099.920410 240.212372 10285.693359" rpy="-0.000000 0.000000 133.086777" a="-43.0868"/>
-    <group name="Land_WarheadStorage_Room1" pos="4015.669922 238.917969 10193.419922" rpy="-0.000000 0.000000 -44.897091" a="134.897"/>
-    <group name="Land_WarheadStorage_Room2" pos="4011.223145 238.917999 10188.742188" rpy="-0.000000 0.000000 -44.897091" a="134.897"/>
-    <group name="Land_WarheadStorage_Room3" pos="4006.972168 238.917984 10184.271484" rpy="-0.000000 0.000000 -44.897091" a="134.897"/>
-    <group name="Land_WarheadStorage_Room4" pos="4002.240723 238.917953 10179.806641" rpy="0.000000 0.000000 -44.897091" a="134.897"/>
-    <group name="Land_WarheadStorage_Main" pos="4009.094971 242.374130 10192.112305" rpy="-0.000000 0.000000 -44.897106" a="134.897"/>
-    <!-- END LUKOW BUNKER -->
-
-    <!-- TOPOLIN TOWER -->
-    <group name="StaticObj_Misc_SupplyBox2_DE" pos="1972.734009 284.049713 7641.268066" rpy="-0.000000 0.000000 74.853630" a="15.1464"/>
-    <group name="StaticObj_Misc_SupplyBox3_DE" pos="1969.646729 278.453278 7643.197754" rpy="-0.000000 0.000000 166.788559" a="-76.7886"/>
-    <!-- END TOPOLIN TOWER -->
-
-    <!-- TOPOLIN C130 -->
-    <group name="StaticObj_Misc_SupplyBox3_DE" pos="821.666016 188.466599 7814.635254" rpy="-0.000000 0.000000 -130.759491" a="-139.241"/>
-    <group name="StaticObj_Misc_SupplyBox1_DE" pos="828.638550 188.174774 7816.548340" rpy="-0.000000 0.000000 41.005146" a="48.9949"/>
-    <group name="StaticObj_Misc_SupplyBox2_DE" pos="834.039001 188.434509 7818.086426" rpy="-0.000000 0.000000 -144.108429" a="-125.892"/>
-    <group name="StaticObj_Misc_SupplyBox1_DE" pos="818.368652 189.501007 7822.926758" rpy="-0.000000 0.000000 0.005823" a="89.9942"/>
-    <group name="StaticObj_Misc_SupplyBox2_DE" pos="822.873413 189.524109 7822.326660" rpy="-0.000000 0.000000 132.854446" a="-42.8544"/>
-    <!-- END TOPOLIN C130 -->
-
-    <!-- END CUSTOM -->
-
     <group name="Land_Wreck_hb02_aban1_red" pos="175.239578 196.972504 6863.169434" rpy="-0.000000 0.000000 -126.535629" a="-143.464355" />
     <group name="Land_Wreck_hb02_aban2_blue" pos="185.159836 236.695572 8722.429688" rpy="0.637022 -2.105881 130.563705" a="-40.563709" />
     <group name="Land_Misc_FeedShack" pos="225.898300 289.673737 10345.366211" rpy="-0.000000 0.000000 77.965248" a="12.034749" />

@@ -1,3 +1,980 @@
 {
-  "Objects": []
+  "Objects": [
+    {
+      "name": "SledgeHammer",
+      "pos": [
+        6250.774619707139,
+        309.58480962024635,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T481_I0"
+    },
+    {
+      "name": "RemoteDetonator",
+      "pos": [
+        6248.938738304061,
+        309.37563735581705,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T480_I0"
+    },
+    {
+      "name": "RemoteDetonator",
+      "pos": [
+        6248.938738304061,
+        309.37563735581705,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T479_I0"
+    },
+    {
+      "name": "RemoteDetonator",
+      "pos": [
+        6248.938738304061,
+        309.37563735581705,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T478_I0"
+    },
+    {
+      "name": "RemoteDetonator",
+      "pos": [
+        6248.938738304061,
+        309.37563735581705,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T477_I0"
+    },
+    {
+      "name": "RemoteDetonator",
+      "pos": [
+        6248.938738304061,
+        309.37563735581705,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T476_I0"
+    },
+    {
+      "name": "RemoteDetonator",
+      "pos": [
+        6248.938738304061,
+        309.37563735581705,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T475_I0"
+    },
+    {
+      "name": "RemoteDetonator",
+      "pos": [
+        6248.938738304061,
+        309.37563735581705,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T474_I0"
+    },
+    {
+      "name": "RemoteDetonator",
+      "pos": [
+        6248.938738304061,
+        309.37563735581705,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T473_I0"
+    },
+    {
+      "name": "RemoteDetonator",
+      "pos": [
+        6248.938738304061,
+        309.37563735581705,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T472_I0"
+    },
+    {
+      "name": "RemoteDetonator",
+      "pos": [
+        6248.938738304061,
+        309.37563735581705,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T471_I0"
+    },
+    {
+      "name": "RemoteDetonator",
+      "pos": [
+        6248.938738304061,
+        309.37563735581705,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T470_I0"
+    },
+    {
+      "name": "RemoteDetonator",
+      "pos": [
+        6248.938738304061,
+        309.37563735581705,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T469_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T468_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T467_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T466_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T465_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T464_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T463_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T462_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T461_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T460_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T459_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T458_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T457_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T456_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T455_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T454_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T453_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T452_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T451_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T450_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T449_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T448_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T447_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T446_I0"
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        6250.748048096156,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T445_I0"
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        6250.209016994375,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T444_I0"
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        6250.209016994375,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T443_I0"
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        6250.209016994375,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T442_I0"
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        6250.209016994375,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T441_I0"
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        6250.209016994375,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T440_I0"
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        6250.209016994375,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T439_I0"
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        6250.209016994375,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T438_I0"
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        6250.209016994375,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T437_I0"
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        6250.209016994375,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T436_I0"
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        6250.209016994375,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T435_I0"
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        6250.209016994375,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T434_I0"
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        6250.209016994375,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T433_I0"
+    },
+    {
+      "name": "ImprovisedExplosive",
+      "pos": [
+        6249.257212390313,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T432_I0"
+    },
+    {
+      "name": "ImprovisedExplosive",
+      "pos": [
+        6249.257212390313,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T431_I0"
+    },
+    {
+      "name": "ImprovisedExplosive",
+      "pos": [
+        6249.257212390313,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T430_I0"
+    },
+    {
+      "name": "ImprovisedExplosive",
+      "pos": [
+        6249.257212390313,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T429_I0"
+    },
+    {
+      "name": "ImprovisedExplosive",
+      "pos": [
+        6249.257212390313,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T428_I0"
+    },
+    {
+      "name": "ImprovisedExplosive",
+      "pos": [
+        6249.257212390313,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T427_I0"
+    },
+    {
+      "name": "ImprovisedExplosive",
+      "pos": [
+        6249.257212390313,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T426_I0"
+    },
+    {
+      "name": "ImprovisedExplosive",
+      "pos": [
+        6249.257212390313,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T425_I0"
+    },
+    {
+      "name": "ImprovisedExplosive",
+      "pos": [
+        6249.257212390313,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T424_I0"
+    },
+    {
+      "name": "ImprovisedExplosive",
+      "pos": [
+        6249.257212390313,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T423_I0"
+    },
+    {
+      "name": "ImprovisedExplosive",
+      "pos": [
+        6249.257212390313,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T422_I0"
+    },
+    {
+      "name": "ImprovisedExplosive",
+      "pos": [
+        6249.257212390313,
+        309.1,
+        6017.7
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": "AutoTrader_T421_I0"
+    }
+  ]
 }

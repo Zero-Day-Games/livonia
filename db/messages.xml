@@ -45,14 +45,9 @@
         -->
     <message>
         <delay>1</delay>
-        <repeat>15</repeat>
+        <repeat>5</repeat>
         <onconnect>1</onconnect>
         <text>#name</text>
-    </message>
-    <message>
-        <delay>10</delay>
-        <onconnect>1</onconnect>
-        <text>Trader is located South of Lipina and is a SAFE ZONE! No PVP within 250 meters of trader!</text>
     </message>
     <message>
         <deadline>120</deadline>

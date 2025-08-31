@@ -1,161 +1,301 @@
 {
-	"version": 123,
-	"GeneralData":
-	{
-		"disableBaseDamage": true,
-		"disableContainerDamage": false,
-		"disableRespawnDialog": true,
-		"disableRespawnInUnconsciousness": true
-	},
-    "PlayerData":
-	{
-		"spawnGearPresetFiles": [
-			"custom/loadout.json"
-		],
-		"disablePersonalLight": false,
-		"StaminaData":
-		{
-			"sprintStaminaModifierErc": 0.2,
-			"sprintStaminaModifierCro": 0.2,
-			"staminaWeightLimitThreshold": 6000.0,
-			"staminaMax": 100.0,
-			"staminaKgToStaminaPercentPenalty": 1.1,
-			"staminaMinCap": 100.0,
-			"sprintSwimmingStaminaModifier": 0.2,
-			"sprintLadderStaminaModifier": 0.2,
-			"meleeStaminaModifier": 0.2,
-			"obstacleTraversalStaminaModifier": 0.2,
-			"holdBreathStaminaModifier": 0.2
-		},
-		"ShockHandlingData":
-		{
-			"shockRefillSpeedConscious": 5.0,
-			"shockRefillSpeedUnconscious": 1.0,
-			"allowRefillSpeedModifier": true
-		},
-		"MovementData":
-		{
-			"timeToStrafeJog": 0.1,
-			"rotationSpeedJog": 0.3,
-			"timeToSprint": 0.45,
-			"timeToStrafeSprint": 0.3,
-			"rotationSpeedSprint": 0.15,
-			"allowStaminaAffectInertia": true
-		},
-		"DrowningData":
-		{
-			"staminaDepletionSpeed": 10.0,
-			"healthDepletionSpeed": 10.0,
-			"shockDepletionSpeed": 10.0
-		},
-		"WeaponObstructionData":
-		{
-			"staticMode": 1,
-			"dynamicMode": 1
-		}
-	},
-	"WorldsData":
-	{
-		"lightingConfig": 1,
-		"objectSpawnersArr": [
-			"./custom/fast-travel.json",
-			"custom/DayZSentinel_Shop.json"
-
-		],
-		"environmentMinTemps": [-7, -7.4, -4.1, 1.5, 7, 11.3, 20.4, 19.1, 18, 5.3, 0.8, -3.6],
-		"environmentMaxTemps": [-2.5, -2.1, 2.3, 9, 15.5, 19.4, 25, 22, 21, 10.5, 4.2, 0.1],
-		"wetnessWeightModifiers": [1.0, 1.0, 1.33, 1.66, 2.0],
-		"playerRestrictedAreaFiles": [
-			"./custom/fast-travel-adamow-hub.json",
-			"./custom/fast-travel-bielawa-hub.json",
-			"./custom/fast-travel-brenna-hub.json",
-			"./custom/fast-travel-dolnik-hub.json",
-			"./custom/fast-travel-gieraltow-hub.json",
-			"./custom/fast-travel-gliniska-hub.json",
-			"./custom/fast-travel-grabin-hub.json",
-			"./custom/fast-travel-hub-adamow.json",
-			"./custom/fast-travel-hub-bielawa.json",
-			"./custom/fast-travel-hub-brenna.json",
-			"./custom/fast-travel-hub-dolnik.json",
-			"./custom/fast-travel-hub-gieraltow.json",
-			"./custom/fast-travel-hub-gliniska.json",
-			"./custom/fast-travel-hub-grabin.json",
-			"./custom/fast-travel-hub-kolembrody.json",
-			"./custom/fast-travel-hub-lembork.json",
-			"./custom/fast-travel-hub-lukow.json",
-			"./custom/fast-travel-hub-nadbor.json",
-			"./custom/fast-travel-hub-olszanka.json",
-			"./custom/fast-travel-hub-polana.json",
-			"./custom/fast-travel-hub-radacz.json",
-			"./custom/fast-travel-hub-sitnik.json",
-			"./custom/fast-travel-hub-sobotka.json",
-			"./custom/fast-travel-hub-tarnow.json",
-			"./custom/fast-travel-hub-topolin.json",
-			"./custom/fast-travel-hub-wrzeszcz.json",
-			"./custom/fast-travel-hub-zalesie.json",
-			"./custom/fast-travel-kolembrody-hub.json",
-			"./custom/fast-travel-lembork-hub.json",
-			"./custom/fast-travel-lukow-hub.json",
-			"./custom/fast-travel-nadbor-hub.json",
-			"./custom/fast-travel-olszanka-hub.json",
-			"./custom/fast-travel-polana-hub.json",
-			"./custom/fast-travel-radacz-hub.json",
-			"./custom/fast-travel-sitnik-hub.json",
-			"./custom/fast-travel-sobotka-hub.json",
-			"./custom/fast-travel-tarnow-hub.json",
-			"./custom/fast-travel-topolin-hub.json",
-			"./custom/fast-travel-wrzeszcz-hub.json",
-			"./custom/fast-travel-zalesie-hub.json"
-		]
-	},
-	"BaseBuildingData":
-	{
-		"HologramData":
-		{
-			"disableIsCollidingBBoxCheck": true,
-			"disableIsCollidingPlayerCheck": true,
-			"disableIsClippingRoofCheck": true,
-			"disableIsBaseViableCheck": true,
-			"disableIsCollidingGPlotCheck": true,
-			"disableIsCollidingAngleCheck": true,
-			"disableIsPlacementPermittedCheck": true,
-			"disableHeightPlacementCheck": true,
-			"disableIsUnderwaterCheck": true,
-			"disableIsInTerrainCheck": true,
-			"disableColdAreaBuildingCheck": true,
-			"disallowedTypesInUnderground": ["FenceKit","TerritoryFlagKit","WatchtowerKit"]
-		},
-		"ConstructionData":
-		{
-			"disablePerformRoofCheck": true,
-			"disableIsCollidingCheck": true,
-			"disableDistanceCheck": true
-		}
-	},
-	"UIData":
-	{
-		"use3DMap": false,
-		"HitIndicationData":
-		{
-			"hitDirectionOverrideEnabled": true,
-			"hitDirectionBehaviour": 1,
-			"hitDirectionStyle": 0,
-			"hitDirectionIndicatorColorStr": "0xffbb0a1e",
-			"hitDirectionMaxDuration": 2.0,
-			"hitDirectionBreakPointRelative": 0.2,
-			"hitDirectionScatter": 10.0,
-			"hitIndicationPostProcessEnabled": true
-		}
-	},
-	"MapData":
-	{
-		"ignoreMapOwnership": true,
-		"ignoreNavItemsOwnership": true,
-		"displayPlayerPosition": true,
-		"displayNavInfo": true
-	},
-	"VehicleData":
-	{
-		"boatDecayMultiplier": 1
-	}
+ "version": 123,
+ "GeneralData": {
+  "disableBaseDamage": true,
+  "disableContainerDamage": false,
+  "disableRespawnDialog": true,
+  "disableRespawnInUnconsciousness": true
+ },
+ "PlayerData": {
+  "spawnGearPresetFiles": [
+   "custom/loadout.json"
+  ],
+  "disablePersonalLight": false,
+  "StaminaData": {
+   "sprintStaminaModifierErc": 0.2,
+   "sprintStaminaModifierCro": 0.2,
+   "staminaWeightLimitThreshold": 6000.0,
+   "staminaMax": 100.0,
+   "staminaKgToStaminaPercentPenalty": 1.1,
+   "staminaMinCap": 100.0,
+   "sprintSwimmingStaminaModifier": 0.2,
+   "sprintLadderStaminaModifier": 0.2,
+   "meleeStaminaModifier": 0.2,
+   "obstacleTraversalStaminaModifier": 0.2,
+   "holdBreathStaminaModifier": 0.2
+  },
+  "ShockHandlingData": {
+   "shockRefillSpeedConscious": 5.0,
+   "shockRefillSpeedUnconscious": 1.0,
+   "allowRefillSpeedModifier": true
+  },
+  "MovementData": {
+   "timeToStrafeJog": 0.1,
+   "rotationSpeedJog": 0.3,
+   "timeToSprint": 0.45,
+   "timeToStrafeSprint": 0.3,
+   "rotationSpeedSprint": 0.15,
+   "allowStaminaAffectInertia": true
+  },
+  "DrowningData": {
+   "staminaDepletionSpeed": 10.0,
+   "healthDepletionSpeed": 10.0,
+   "shockDepletionSpeed": 10.0
+  },
+  "WeaponObstructionData": {
+   "staticMode": 1,
+   "dynamicMode": 1
+  }
+ },
+ "WorldsData": {
+  "lightingConfig": 0,
+  "objectSpawnersArr": [
+   "./custom/fast-travel.json",
+   "custom/DayZSentinel_Shop.json"
+  ],
+  "environmentMinTemps": [
+   -7,
+   -7.4,
+   -4.1,
+   1.5,
+   7,
+   11.3,
+   20.4,
+   19.1,
+   18,
+   5.3,
+   0.8,
+   -3.6
+  ],
+  "environmentMaxTemps": [
+   -2.5,
+   -2.1,
+   2.3,
+   9,
+   15.5,
+   19.4,
+   25,
+   22,
+   21,
+   10.5,
+   4.2,
+   0.1
+  ],
+  "wetnessWeightModifiers": [
+   1.0,
+   1.0,
+   1.33,
+   1.66,
+   2.0
+  ],
+  "playerRestrictedAreaFiles": [
+   "./custom/fast-travel-adamow-hub.json",
+   "./custom/fast-travel-bielawa-hub.json",
+   "./custom/fast-travel-brenna-hub.json",
+   "./custom/fast-travel-dolnik-hub.json",
+   "./custom/fast-travel-gieraltow-hub.json",
+   "./custom/fast-travel-gliniska-hub.json",
+   "./custom/fast-travel-grabin-hub.json",
+   "./custom/fast-travel-hub-adamow.json",
+   "./custom/fast-travel-hub-bielawa.json",
+   "./custom/fast-travel-hub-brenna.json",
+   "./custom/fast-travel-hub-dolnik.json",
+   "./custom/fast-travel-hub-gieraltow.json",
+   "./custom/fast-travel-hub-gliniska.json",
+   "./custom/fast-travel-hub-grabin.json",
+   "./custom/fast-travel-hub-kolembrody.json",
+   "./custom/fast-travel-hub-lembork.json",
+   "./custom/fast-travel-hub-lukow.json",
+   "./custom/fast-travel-hub-nadbor.json",
+   "./custom/fast-travel-hub-olszanka.json",
+   "./custom/fast-travel-hub-polana.json",
+   "./custom/fast-travel-hub-radacz.json",
+   "./custom/fast-travel-hub-sitnik.json",
+   "./custom/fast-travel-hub-sobotka.json",
+   "./custom/fast-travel-hub-tarnow.json",
+   "./custom/fast-travel-hub-topolin.json",
+   "./custom/fast-travel-hub-wrzeszcz.json",
+   "./custom/fast-travel-hub-zalesie.json",
+   "./custom/fast-travel-kolembrody-hub.json",
+   "./custom/fast-travel-lembork-hub.json",
+   "./custom/fast-travel-lukow-hub.json",
+   "./custom/fast-travel-nadbor-hub.json",
+   "./custom/fast-travel-olszanka-hub.json",
+   "./custom/fast-travel-polana-hub.json",
+   "./custom/fast-travel-radacz-hub.json",
+   "./custom/fast-travel-sitnik-hub.json",
+   "./custom/fast-travel-sobotka-hub.json",
+   "./custom/fast-travel-tarnow-hub.json",
+   "./custom/fast-travel-topolin-hub.json",
+   "./custom/fast-travel-wrzeszcz-hub.json",
+   "./custom/fast-travel-zalesie-hub.json",
+   "./custom/fast-travel-308-11312.json",
+   "./custom/fast-travel-934-5525.json",
+   "./custom/fast-travel-983-5658.json",
+   "./custom/fast-travel-954-9541.json",
+   "./custom/fast-travel-1026-5592.json",
+   "./custom/fast-travel-1217-8068.json",
+   "./custom/fast-travel-1249-8237.json",
+   "./custom/fast-travel-1238-9510.json",
+   "./custom/fast-travel-1332-9620.json",
+   "./custom/fast-travel-1368-9786.json",
+   "./custom/fast-travel-1418-9658.json",
+   "./custom/fast-travel-1463-9470.json",
+   "./custom/fast-travel-1648-9789.json",
+   "./custom/fast-travel-1672-9695.json",
+   "./custom/fast-travel-1693-9888.json",
+   "./custom/fast-travel-1703-9793.json",
+   "./custom/fast-travel-1926-2794.json",
+   "./custom/fast-travel-2363-2871.json",
+   "./custom/fast-travel-2845-6750.json",
+   "./custom/fast-travel-3027-1146.json",
+   "./custom/fast-travel-3186-2114.json",
+   "./custom/fast-travel-3187-5025.json",
+   "./custom/fast-travel-3207-3622.json",
+   "./custom/fast-travel-3235-4974.json",
+   "./custom/fast-travel-3256-3648.json",
+   "./custom/fast-travel-3273-4935.json",
+   "./custom/fast-travel-3269-5006.json",
+   "./custom/fast-travel-3306-4989.json",
+   "./custom/fast-travel-3315-6828.json",
+   "./custom/fast-travel-3358-5034.json",
+   "./custom/fast-travel-3381-12156.json",
+   "./custom/fast-travel-3478-6545.json",
+   "./custom/fast-travel-3484-11998.json",
+   "./custom/fast-travel-3470-12287.json",
+   "./custom/fast-travel-3519-6529.json",
+   "./custom/fast-travel-3550-11726.json",
+   "./custom/fast-travel-3608-11701.json",
+   "./custom/fast-travel-3716-11736.json",
+   "./custom/fast-travel-3817-11627.json",
+   "./custom/fast-travel-3832-11747.json",
+   "./custom/fast-travel-3855-10010.json",
+   "./custom/fast-travel-3859-11569.json",
+   "./custom/fast-travel-3939-8014.json",
+   "./custom/fast-travel-3910-11748.json",
+   "./custom/fast-travel-3983-8159.json",
+   "./custom/fast-travel-4040-3312.json",
+   "./custom/fast-travel-4708-3087.json",
+   "./custom/fast-travel-4767-10108.json",
+   "./custom/fast-travel-4750-10174.json",
+   "./custom/fast-travel-4882-9970.json",
+   "./custom/fast-travel-4924-7862.json",
+   "./custom/fast-travel-4945-9857.json",
+   "./custom/fast-travel-4982-9730.json",
+   "./custom/fast-travel-5015-9861.json",
+   "./custom/fast-travel-5064-9821.json",
+   "./custom/fast-travel-5066-10118.json",
+   "./custom/fast-travel-5178-9591.json",
+   "./custom/fast-travel-5203-9612.json",
+   "./custom/fast-travel-5766-11614.json",
+   "./custom/fast-travel-5811-4256.json",
+   "./custom/fast-travel-6017-4326.json",
+   "./custom/fast-travel-6053-4074.json",
+   "./custom/fast-travel-6216-10101.json",
+   "./custom/fast-travel-6264-10462.json",
+   "./custom/fast-travel-6261-11921.json",
+   "./custom/fast-travel-6335-10248.json",
+   "./custom/fast-travel-6312-10419.json",
+   "./custom/fast-travel-6389-4477.json",
+   "./custom/fast-travel-6399-11539.json",
+   "./custom/fast-travel-6477-11497.json",
+   "./custom/fast-travel-6563-10815.json",
+   "./custom/fast-travel-6618-11181.json",
+   "./custom/fast-travel-6811-4676.json",
+   "./custom/fast-travel-8360-1628.json",
+   "./custom/fast-travel-8351-3177.json",
+   "./custom/fast-travel-8399-11755.json",
+   "./custom/fast-travel-8437-2303.json",
+   "./custom/fast-travel-8440-11995.json",
+   "./custom/fast-travel-8473-12039.json",
+   "./custom/fast-travel-8546-12087.json",
+   "./custom/fast-travel-8552-12031.json",
+   "./custom/fast-travel-8934-4440.json",
+   "./custom/fast-travel-8974-12572.json",
+   "./custom/fast-travel-9098-4464.json",
+   "./custom/fast-travel-9682-10282.json",
+   "./custom/fast-travel-9901-479.json",
+   "./custom/fast-travel-10442-11165.json",
+   "./custom/fast-travel-10510-3148.json",
+   "./custom/fast-travel-10564-11168.json",
+   "./custom/fast-travel-10564-11868.json",
+   "./custom/fast-travel-10617-10996.json",
+   "./custom/fast-travel-10611-11031.json",
+   "./custom/fast-travel-10640-11222.json",
+   "./custom/fast-travel-10738-10864.json",
+   "./custom/fast-travel-10722-10977.json",
+   "./custom/fast-travel-10718-11204.json",
+   "./custom/fast-travel-10769-10741.json",
+   "./custom/fast-travel-10770-10828.json",
+   "./custom/fast-travel-10756-10950.json",
+   "./custom/fast-travel-10828-4255.json",
+   "./custom/fast-travel-10823-10790.json",
+   "./custom/fast-travel-10848-10831.json",
+   "./custom/fast-travel-10934-10974.json",
+   "./custom/fast-travel-10903-10966.json",
+   "./custom/fast-travel-10995-11124.json",
+   "./custom/fast-travel-10998-11290.json",
+   "./custom/fast-travel-11020-11239.json",
+   "./custom/fast-travel-11232-11187.json",
+   "./custom/fast-travel-11281-753.json",
+   "./custom/fast-travel-11415-2924.json",
+   "./custom/fast-travel-11491-2887.json",
+   "./custom/fast-travel-11460-2920.json",
+   "./custom/fast-travel-11452-2998.json",
+   "./custom/fast-travel-11473-9755.json",
+   "./custom/fast-travel-11515-9729.json",
+   "./custom/fast-travel-11699-9529.json",
+   "./custom/fast-travel-11858-7351.json",
+   "./custom/fast-travel-11958-7383.json",
+   "./custom/fast-travel-12102-8583.json",
+   "./custom/fast-travel-12213-4725.json"
+  ]
+ },
+ "BaseBuildingData": {
+  "HologramData": {
+   "disableIsCollidingBBoxCheck": true,
+   "disableIsCollidingPlayerCheck": true,
+   "disableIsClippingRoofCheck": true,
+   "disableIsBaseViableCheck": true,
+   "disableIsCollidingGPlotCheck": true,
+   "disableIsCollidingAngleCheck": true,
+   "disableIsPlacementPermittedCheck": true,
+   "disableHeightPlacementCheck": true,
+   "disableIsUnderwaterCheck": true,
+   "disableIsInTerrainCheck": true,
+   "disableColdAreaBuildingCheck": true,
+   "disallowedTypesInUnderground": [
+    "FenceKit",
+    "TerritoryFlagKit",
+    "WatchtowerKit"
+   ]
+  },
+  "ConstructionData": {
+   "disablePerformRoofCheck": true,
+   "disableIsCollidingCheck": true,
+   "disableDistanceCheck": true
+  }
+ },
+ "UIData": {
+  "use3DMap": false,
+  "HitIndicationData": {
+   "hitDirectionOverrideEnabled": true,
+   "hitDirectionBehaviour": 1,
+   "hitDirectionStyle": 0,
+   "hitDirectionIndicatorColorStr": "0xffbb0a1e",
+   "hitDirectionMaxDuration": 2.0,
+   "hitDirectionBreakPointRelative": 0.2,
+   "hitDirectionScatter": 10.0,
+   "hitIndicationPostProcessEnabled": true
+  }
+ },
+ "MapData": {
+  "ignoreMapOwnership": true,
+  "ignoreNavItemsOwnership": true,
+  "displayPlayerPosition": true,
+  "displayNavInfo": true
+ },
+ "VehicleData": {
+  "boatDecayMultiplier": 1
+ }
 }

@@ -50,6 +50,12 @@ Example messages:
         <text>#name</text>
     </message>
     <message>
+        <delay>3</delay>
+        <repeat>5</repeat>
+        <onconnect>1</onconnect>
+        <text>No killing, building, or placing booby traps at fast travel hub</text>
+    </message>
+    <message>
         <deadline>120</deadline>
         <shutdown>1</shutdown>
         <text>Server will restart in #tmin minutes.</text>
